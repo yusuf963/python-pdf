@@ -1,0 +1,32 @@
+MAT067 University of California, Davis Winter 2007
+Some Common Mathematical Symbols
+and Abbreviations (with History)
+Isaiah Lankham, Bruno Nachtergaele, Anne Schilling
+(January 21, 2007)
+Binary Relations
+= (the equals sign ) means “is the same as” and was ﬁrst introduced in the 1557 book The
+Whetstone of Witte by Robert Recorde (c. 1510-1558). He wrote, ”I will sette as I doe often
+in woorke use, a paire of parralles, or Gemowe lines of one lengthe, thus : ==, bicause noe 2,
+thynges, can be moare equalle.” (Recorde used an elongated form of the modern equals sign.)
+<(theless than sign ) mean “is strictly less than”, and >(thegreater than sign ) means
+“is strictly greater than”. They ﬁrst appeared in Artis Analyticae Praxis ad Aequationes
+Algebraicas Resolvendas (“The Analytical Arts Applied to Solving Algebraic Equations”) by
+Thomas Harriot (1560-1621), which was published posthumously in 1631.
+Pierre Bouguer (1698-1758) later reﬁned these to ≤(“less than or equals”) and ≥(“greater
+than or equals”) in 1734.
+:= (the equal by deﬁnition sign ) means “is equal by deﬁnition to”. This is a common alternate
+form of the symbol “= Def”, which appears in the 1894 book Logica Matematica by the logician
+Cesare Burali-Forti (1861–1931). Other common alternate forms of the symbol “= Def” include
+“def= ” and “ ≡”, the latter being especially common in applied mathematics.
+Some Symbols from Mathematical Logic
+∴(three dots ) means “therefore” and ﬁrst appeared in print in the 1659 book Teusche Algebra
+(“Teach Yourself Algebra”) by Johann Rahn (1622-1676).
+/owner(thesuch that sign) means “under the condition that”. However, it is much more common
+(and less ambiguous) to just abbreviate “such that” as “s.t.”.
+⇒(theimplies sign) means “logically implies that”. (E.g., “if it’s raining, then it’s pouring” is
+equivalent to saying “it’s raining ⇒it’s pouring.”)
+The history of this symbol is unclear.
+⇐⇒ (theiﬀsign) means “if and only if” and is used to connect logically equivalent statements.
+(E.g., “it’s raining iﬀ it’s really humid” means simultaneously that “if it’s raining, then it’s
+Copyright c/circlecopyrt2007 by the authors. These lecture notes may be reproduced in their entirety for non-commercial
+purposes.
